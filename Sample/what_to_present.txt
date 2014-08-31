@@ -1,0 +1,35 @@
+
+
+
+Explain the concept behind SC.  What is SC?  What do you need to run it?
+Explain the sample project and the SCApplication project.
+
+
+History and plotting software calls your code.
+
+Load up template.c, run, show nothing is doing.
+
+Describe everything that is on the screen.
+
+Load up template_plot.c
+
+Go through uncommenting the code.
+Describe everything that is new on the screen.
+
+
+Gives a chance to describe the watched variables.
+      
+
+Describe DataGraph and show the zoom in  / zoom out features on the windows.  
+Demo DataGraph as a tool.  
+
+Crack open DataGraph to show the utility of this tool. 
+
+
+Talk about different types of columns.
+
+Talk about different types of plots. 
+
+Crack open the SimulationController.h and SCPlotController.h
+
+End with big examples or go through each type of example separately?

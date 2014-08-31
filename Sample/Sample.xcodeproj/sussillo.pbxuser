@@ -1,0 +1,54 @@
+// !$*UTF8*$!
+{
+	0867D690FE84028FC02AAC07 /* Project object */ = {
+		activeArchitecturePreference = x86_64;
+		activeBuildConfigurationName = Debug;
+		activeTarget = D2AAC0C605546C1D00DB518D /* Sample */;
+		addToTargets = (
+			D2AAC0C605546C1D00DB518D /* Sample */,
+		);
+		codeSenseManager = F5CA616E115F9C5D00C11F0E /* Code sense */;
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 291582121;
+			PBXWorkspaceStateSaveDate = 291582121;
+		};
+		sourceControlManager = F5CA616D115F9C5D00C11F0E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	D2AAC0C605546C1D00DB518D /* Sample */ = {
+		activeExec = 0;
+	};
+	F58F527210BC69D9005A9550 /* model.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1254.2, 24510}}";
+			sepNavSelRange = "{1416, 65}";
+			sepNavVisRange = "{1255, 394}";
+		};
+	};
+	F5CA616D115F9C5D00C11F0E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	F5CA616E115F9C5D00C11F0E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F5CA61A4115FA07000C11F0E /* template_plot.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 7450}}";
+			sepNavSelRange = "{10274, 0}";
+			sepNavVisRange = "{1706, 117}";
+		};
+	};
+	F5CA61A9115FA1CE00C11F0E /* SCExamples.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 15825}}";
+			sepNavSelRange = "{20832, 0}";
+			sepNavVisRange = "{16399, 301}";
+		};
+	};
+}
